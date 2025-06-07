@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LunarKitsune
-- 👀 I’m interested in web api, and general coding
-- 🌱 I’m currently learning web api and data collection, as well as dusting off my rusty skills in C#
-- 💞️ I’m looking to collaborate on some simple projects and eventually go onto more complex projects
+- 👀 I’m interested general coding and modding
+- 🌱 I’m currently learning minecraft modding for minecraft  1.21.5 with fabric platform
 - 📫 How to reach me- Email: Ken020789@gmail.com
 
 <!---
