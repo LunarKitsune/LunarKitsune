@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning minecraft modding for minecraft  1.21.5 with fabric platform
 - 📫 How to reach me- Email: Ken020789@gmail.com
 
-Updates: 
-- 6/7/2025  
+Updates:  
+<6/7/2025>  
 ==================  
  - Deleted 23 repositories not in use
  - Updated this profile ReadMe
