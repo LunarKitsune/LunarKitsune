@@ -10,7 +10,7 @@ Updates:
  - minecraft seems moddable, but put on hold due to registering custom blocks beinga pain in the ass.
 
 ==== Godot ==== <br>
--have recently pushed a godot project learning. Will be re-attempting to learn the engine and having this repository for learning purposes. 
+ - have recently pushed a godot project learning. Will be re-attempting to learn the engine and having this repository for learning purposes. 
    
 <!---
 LunarKitsune/LunarKitsune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
